@@ -134,6 +134,12 @@ Whether you're promoting a product or writing a thought piece, this system helps
 
 
 
+<img width="1377" alt="Screenshot 2025-05-30 at 6 44 52 PM" src="https://github.com/user-attachments/assets/cc39c0a3-49ac-4ef6-9229-79eaa8f8f8ca" />
+<img width="1339" alt="Screenshot 2025-05-30 at 6 44 59 PM" src="https://github.com/user-attachments/assets/43c2007f-bdfd-4bcb-8fad-c062c8733a0b" />
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/56b19dd3-7dcc-455e-882d-6ff46481a466)
 ![image](https://github.com/user-attachments/assets/5b484c2a-0db1-4f46-9a14-25427005294c)
