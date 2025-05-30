@@ -135,3 +135,54 @@ Whether you're promoting a product or writing a thought piece, this system helps
 
 
 
+![image](https://github.com/user-attachments/assets/56b19dd3-7dcc-455e-882d-6ff46481a466)
+![image](https://github.com/user-attachments/assets/5b484c2a-0db1-4f46-9a14-25427005294c)
+![image](https://github.com/user-attachments/assets/fa05410e-da0d-4122-a946-d4ef0d94db77)
+![image](https://github.com/user-attachments/assets/677eaf53-1db7-4293-b1eb-47db30e86df4)
+
+
+
+🔐 Account & Subscription Management
+Profile Settings
+Users can view and edit their full name and email address, and securely update their password.
+
+Subscription Plans
+Displays the current plan (e.g., Free) and available upgrade options, including the $20/month Pro Plan with added benefits.
+
+Billing Page
+Allows users to enter payment information and agree to terms before upgrading to Pro.
+
+Payment Method & Billing History
+Shows the saved payment method (if any) and logs billing history; starts empty for new users.
+
+🔑 Authentication
+Sign In Screen
+Secure login form where users can sign in using their email and password or register for a new account.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2657e520-78d4-4f5e-a381-abaea0933016)
+
+
+
+
+📊 User Dashboard
+Dashboard Overview
+Shows how many pieces of content have been generated, how many generations remain for the day, and the user’s current plan status.
+
+Recent Content
+Lists recent content generated (blog posts, social media captions, emails) with creation dates and quick access to edit.
+
+
+
+
+
+
+
+
+
+
+
+
