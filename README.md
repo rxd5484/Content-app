@@ -33,3 +33,49 @@ Define a topic and optional keywords
 Generate and edit AI-generated content
 
 Choose between Free and Pro plans with different generation limits and SEO features
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/03baaded-0dcf-4739-a8e1-eb75d5c1f96d)
+![image](https://github.com/user-attachments/assets/f0c9ec2e-7ae1-4dd8-a7a0-5c06998ef547)
+
+
+✍️ AI-Generated Blog Post Demo
+One of the core features of this app is automated content creation. Users simply choose a content type, define their topic, select a tone, and optionally provide keywords. The AI then generates structured content in seconds.
+
+📌 Input Configuration Example
+
+In this example, the user selects:
+
+Content Type: Blog Post
+
+Topic: Social Media in the World
+
+Tone: Enthusiastic
+
+The system then produces a full-length, structured blog post with headers, paragraphs, and emphasis formatting.
+
+📄 Output Preview
+
+The generated content includes:
+
+Clear structure with Markdown-style headings
+
+Informative sections like “The Rise of Social Media Platforms” and “Impact on Society”
+
+Bold key phrases and well-organized bullet points
+
+An enthusiastic tone that matches the selected input
+
+Key Takeaways
+Users can control both topic and tone with minimal input.
+
+Content is generated in seconds, formatted and ready for editing or publishing.
+
+Perfect for rapid drafting of blog articles, newsletters, or educational pieces.
+
+This example demonstrates how the assistant can transform a simple prompt into polished, usable content.
+
+
